@@ -1,0 +1,18 @@
+#tab{
+    text-align: left;
+    justify-items: center;
+    padding-left: 550px;
+}
+
+#login{
+    background:linear-gradient(90.04deg,#a79393,rgb(164, 42, 42),rgb(44, 15, 15))
+}
+
+#register{
+    background:linear-gradient(90.04deg,#9997b1,rgb(67, 67, 134),rgb(8, 12, 49))
+}
+
+#form{
+    margin-top: 15px;
+    background:linear-gradient(90.04deg,#829f7d,rgb(56, 139, 60),rgb(11, 50, 6))
+}
